@@ -12,7 +12,7 @@
 ```javascript
 const github = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
+    code: ["Javascript", "C#","HTML", "CSS","MySQL"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
